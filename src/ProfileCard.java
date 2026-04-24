@@ -11,7 +11,7 @@ public class ProfileCard {
 
         // Printing profile card with border
         System.out.println("====================================");
-        System.out.println("         CS 234 — JAVA PROFILE CARD       ");
+        System.out.println("         CS 234 -- JAVA PROFILE CARD       ");
         System.out.println("====================================");
         System.out.println("Name: " + name);
         System.out.println("studentreg_no: " + studentreg_no);
