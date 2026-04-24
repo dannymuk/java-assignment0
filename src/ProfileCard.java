@@ -7,7 +7,7 @@ public class ProfileCard {
         String yearOfStudy = "Year 2"; // year of study
         String programmingBackground = "Eloquent in C, learnt to develop websites using HTML, beginner in Java"; // programming background
         String courseGoal = "To improve my programmimg in java skills and enjoy the course alongside"; // course goal
-        String funFact = "I am a movie addict "; // A fun fact about me
+        String funFact = "I like spending time in cinemas thus a movie addict "; // A fun fact about me
 
         // Printing profile card with border
         System.out.println("====================================");
