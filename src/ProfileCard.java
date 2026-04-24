@@ -5,13 +5,13 @@ public class ProfileCard {
         String name = "Danny Dickson"; // My name
         String studentreg_no = "2024-04-09556"; // My reg_no
         String yearOfStudy = "Year 2"; // year of study
-        String programmingBackground = "Eloquent in C, learnt to develop websites\nusing HTML, beginner in Java"; // programming background
+        String programmingBackground = "Eloquent in C, learnt to develop \nwebsites using HTML, a beginner in Java"; // programming background
         String courseGoal = "To improve my programmimg in java skills\nand enjoy the course alongside"; // course goal
-        String funFact = "I am a movie addict "; // A fun fact about me
+        String funFact = "I like spending time in cinemas thus\na movie addict and occasionally go\noutdoor for some peace and quiet "; // A fun fact about me
 
         // Printing profile card with border
         System.out.println("====================================");
-        System.out.println("           CS 234 — JAVA PROFILE CARD       ");
+        System.out.println("         CS 234 — JAVA PROFILE CARD       ");
         System.out.println("====================================");
         System.out.println("Name: " + name);
         System.out.println("studentreg_no: " + studentreg_no);
