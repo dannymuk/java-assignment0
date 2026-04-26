@@ -1,5 +1,4 @@
 public class ProfileCard {
-    // Assignment 0 - ProfileCard
     public static void main(String[] args) {
         // Declaring variables
         String name = "Danny Dickson"; // My name
