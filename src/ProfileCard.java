@@ -6,8 +6,7 @@ public class ProfileCard {
         String yearOfStudy = "Year 2"; // year of study
         String programmingBackground = "Eloquent in C, learnt to develop \nwebsites using HTML, a beginner in Java"; // programming background
         String courseGoal = "To improve my programmimg in java skills\nand enjoy the course alongside"; // course goal
-        String funFact = "I like spending time in cinemas thus\na movie addict and occasionally go\noutdoor for some peace and quiet "; // A fun fact about me
-
+        String funFact = "I like spending time in cinemas thus\na movie addict and occasionally go\noutdoor for some peace and quiet "; // A fun fact about m
         // Printing profile card with border
         System.out.println("====================================");
         System.out.println("         CS 234 -- JAVA PROFILE CARD       ");
